@@ -11,7 +11,7 @@ root.render(
   <React.StrictMode>
     <BrowserRouter>
       <NotesProvider>
-        <App />
+          <App />
       </NotesProvider> 
     </BrowserRouter>
     
